@@ -6,8 +6,8 @@ import { useTheme } from "next-themes"
 import { useState, useEffect } from "react"
 
 const navLinks = [
-	{ href: "/", label: "Kezdolap" },
-	{ href: "/szolgaltatasok", label: "Szolgaltatasok" },
+	{ href: "/", label: "Kezdőlap" },
+	{ href: "/szolgaltatasok", label: "Szolgáltatások" },
 	{ href: "/projektek", label: "Projektek" },
 ]
 

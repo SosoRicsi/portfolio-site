@@ -115,7 +115,7 @@ export function ProjectsContent() {
 						Válogatott munkák
 					</h1>
 					<p className="mx-auto mt-6 max-w-2xl text-pretty text-muted-foreground leading-relaxed md:text-lg">
-						Nézd meg a legújabb projektjeimet, amelyke bemutatják tudásomat és tapasztalatomat.
+						Nézd meg a legújabb projektjeimet, amelyek bemutatják tudásomat és tapasztalatomat.
 					</p>
 				</div>
 			</section>
