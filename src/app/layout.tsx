@@ -51,7 +51,6 @@ export default function RootLayout({
 				<Navbar/>
 				<main className="relative z-10 pt-[73px]">{children}</main>
 				<Footer/>
-			<h1 className={"fixed bottom-0 right-0 z-50"}>hello</h1>
 			</ThemeProvider>
 		</body>
 		</html>
