@@ -11,8 +11,8 @@ const skills = [
 
 export function AboutSection() {
 	return (
-		<section id="about" className="relative z-10 px-6 py-24 md:py-32 ">
-			<div className="pointer-events-none absolute inset-0 backdrop-blur-sm [mask-image:linear-gradient(to_bottom,transparent,black_20%,black_80%,transparent)]"></div>
+		<section id="about" className="relative z-10 px-6 py-24 md:py-32">
+			{/* <div className="pointer-events-none absolute inset-0 backdrop-blur-sm [mask-image:linear-gradient(to_bottom,transparent,black_20%,black_80%,transparent)]"></div> */}
 
 			<div className="relative mx-auto max-w-6xl">
 				<div className="mx-auto max-w-6xl">

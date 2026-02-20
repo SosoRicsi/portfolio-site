@@ -116,7 +116,7 @@ export function Navbar() {
 					className="text-lg font-bold tracking-tight text-foreground transition-colors hover:text-primary"
 				>
 					{'<'}
-					<span className="text-primary">Dev</span>
+					<span className="text-primary mx-0.75">Jarkó Ricsi</span>
 					{'/>'}
 				</Link>
 

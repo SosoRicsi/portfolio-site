@@ -3,7 +3,7 @@ export function Footer() {
 		<footer className="relative z-10 border-t border-border/50 bg-background/60 backdrop-blur-sm">
 			<div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-4 px-6 py-8 md:flex-row">
 				<p className="text-sm text-muted-foreground">
-					{"© 2026 Kovacs Tamas. Minden jog fenntartva."}
+					&copy; 2026 Jarkó Richárd &#9767; Minden jog fenntartva.
 				</p>
 				<div className="flex items-center gap-6">
 					<a

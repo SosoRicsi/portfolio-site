@@ -83,10 +83,10 @@ const services = [
 		),
 		title: "Tartalomkezelő rendszerek",
 		description:
-			"Egyedi CMS megoldások, amelyekkel könnyedén kezelheted a weboldalad tartalmát, küldő segítség nélkül.",
+			"Egyedi CMS megoldások, amelyekkel könnyedén kezelheted a weboldalad tartalmát, külső segítség nélkül.",
 		features: [
 			"Egyedi admin felület",
-			"Tartalom verzzózás",
+			"Tartalom verzizózás",
 			"Többnyelvűség",
 		],
 	},
