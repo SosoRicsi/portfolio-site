@@ -1,5 +1,3 @@
-export const dynamic = 'force-dynamic';
-
 import { ProjectsContent } from "@/contents/projects-content"
 import type { Metadata } from "next"
 
