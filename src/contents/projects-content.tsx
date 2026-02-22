@@ -5,7 +5,8 @@ import { useState } from "react"
 const categories = [
 	"Mind",
 	"Blog",
-	"Portfólió"
+	"Portfólió",
+	"Játékszerver oldal"
 ]
 
 const projects: {
@@ -38,13 +39,23 @@ const projects: {
 		description:
 			"Saját portfólió oldal.",
 		tags: ["Next.js", "TailwindCSS"],
-		/* flags: ["Használatban"], */
+		flags: ["Ez az oldal"],
 		color: "from-blue-500/50 to-cyan-500/20",
 		year: "2026",
 		link: "/",
 		logo: "/logo.png",
 		logo_style: "invert"
 	},
+	{
+		title: "BuildFFA",
+		category: "Játékszerver oldal",
+		description: "Bemutató weboldal a BuildFFA nevezetű minecraft játékszerverhez.",
+		tags:  ["Nextj.js", "TailwindCSS"],
+		color: 'from-red-400 to-red-700',
+		year: "2026",
+		link: "https://buildffa-demo.jarkoricsi.hu",
+		logo: "/projects/buildffa_logo.png",
+	}
 ]
 
 export function ProjectsContent() {

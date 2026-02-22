@@ -21,7 +21,7 @@ export function Footer() {
 						Célom a Történelem
 					</a>
 					<a
-						href="mailto:ricsi.swp@gmail.com?subject=Weboldal%20k%C3%A9rd%C5%91jele"
+						href="mailto:ricsi.swp@gmail.com?subject=Projekt ötletem van"
 						className="text-sm text-muted-foreground transition-colors hover:text-primary"
 					>
 						Email

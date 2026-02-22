@@ -30,7 +30,7 @@ export function ContactSection() {
 					Vedd fel velem a kapcsolatot
 				</h2>
 				<p className="mx-auto mb-16 max-w-lg text-center text-muted-foreground">
-					Van egy ötleted vagy projektet? Írj nekem és hamarosan visszajelzek!
+					Van egy ötleted vagy projekted? Írj nekem és hamarosan visszajelzek!
 				</p>
 
 				<div className="grid gap-12 lg:grid-cols-5">
