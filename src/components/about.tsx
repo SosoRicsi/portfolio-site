@@ -15,7 +15,7 @@ export function About() {
 			<div className="grid items-center gap-12 md:grid-cols-2 md:gap-16">
 				<div className="relative">
 					<div className="overflow-hidden rounded-lg border border-border shadow-sm">
-						<Image
+						<img
 							src="/images/parchment.png"
 							alt="Régi pergamen kézírással, pecséttel és lúdtollal"
 							className="h-full w-full object-cover"
