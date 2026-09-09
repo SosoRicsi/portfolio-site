@@ -21,10 +21,10 @@ export function Hero() {
 				/>
 				
 			<div className="relative mx-auto w-full max-w-4xl px-5 pt-28 pb-16 text-center">
-				<span className="inline-flex items-center gap-2 rounded-full border border-accent/50 bg-card/60 px-4 py-1.5 text-sm tracking-wide text-accent-foreground backdrop-blur-sm">
+				{/* <span className="inline-flex items-center gap-2 rounded-full border border-accent/50 bg-card/60 px-4 py-1.5 text-sm tracking-wide text-accent-foreground backdrop-blur-sm">
 				  	<span className="h-1.5 w-1.5 rounded-full bg-accent" />
 				  	A történelem szerelmese
-				</span>
+				</span> */}
 
 				<h1 className="mt-8 text-balance font-serif text-5xl font-semibold leading-[1.05] text-foreground sm:text-6xl md:text-7xl">
 					Üdvözöllek,
@@ -33,7 +33,7 @@ export function Hero() {
 				</h1>
 
 				<p className="mx-auto mt-7 max-w-xl text-pretty text-lg leading-relaxed text-muted-foreground">
-					Győri fiatal, akit gyerekkora óta lenyűgöz a múlt — önkéntes
+					Győri fiatal, akit gyerekkora óta lenyűgöz a múlt —
 					tárlatvezető a{" "}
 					<a
 						href={"https://romer.hu"}
