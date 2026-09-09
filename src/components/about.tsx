@@ -38,13 +38,13 @@ export function About() {
 							Győri fiatal vagyok, akit már gyerekkora óta érdekel a történelem. Különösen az <span className={"font-semibold"}>ókor</span> és a <span className={"font-semibold"}>középkor</span> világa áll közel hozzám.
 						</p>
 						<p>
-							Önkéntesként a győri {" "}
+							A győri {" "}
 							<a 
 								href={"https://romer.hu"} 
 							   className={"underline decoration-dotted underline-offset-2 hover:underline-offset-3 transition-all"} 
 							   target={"_blank"}>Rómer Flóris Művészeti és Történeti Múzeumban
 							</a>{" "}
-							dolgozom, ahol teremőrként és tárlatvezetőként segítek abban, hogy a látogatók közelebb kerüljenek a múlt emlékeihez.
+							dolgozom, ahol tárlatvezetőként segítek abban, hogy a látogatók közelebb kerüljenek a múlt emlékeihez.
 						</p>
 					</div>
 
